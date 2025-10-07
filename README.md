@@ -1,0 +1,1 @@
+![Erlang Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AErlang_logo.svg&psig=AOvVaw1EwuWQd96xVziH38TqHlq8&ust=1759951192194000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOiT3Z7nkpADFQAAAAAdAAAAABAE)
